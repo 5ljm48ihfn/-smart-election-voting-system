@@ -4,4 +4,15 @@ Welcome to the Smart Election System project! This Python-based application uses
 
 The Smart Election System is designed to streamline and secure the voting process by leveraging facial recognition technology and Aadhar number verification. This system ensures that only verified individuals can vote, and it records votes in a tamper-proof manner.
 
+#Table of Content
+. Introduction
+Features
+Installation
+Usage
+Project Structure
+Dependencies
+License
+Contributing
+Acknowledgements
+
 
